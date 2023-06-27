@@ -23,7 +23,6 @@ import { PensamentoComponent } from './components/pensamentos/pensamento/pensame
     BrowserModule,
     AppRoutingModule,
     FormsModule
-    a
   ],
   providers: [],
   bootstrap: [AppComponent]
